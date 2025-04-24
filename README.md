@@ -31,3 +31,5 @@ Welcome to the official website project for **Delicious Restaurant** — a sleek
 1. Clone this repository:
    ```bash
    git clone https://github.com/heermehta124/Delicious-Restaurant.git
+"" 
+"" 
